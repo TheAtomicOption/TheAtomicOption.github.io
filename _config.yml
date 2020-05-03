@@ -18,7 +18,8 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
+avatar: "https://avatars3.githubusercontent.com/u/5669150?s=460&u=e344fb2860186d8e9216a00b8f4df1f60d5e1da7&v=4"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
