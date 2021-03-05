@@ -46,7 +46,6 @@
     position: relative !important;
     overflow: auto !important;
     overflow-y: hidden !important;
-    font-size: 0.9em !important;
 }
 
 .syntaxhighlighter code {
