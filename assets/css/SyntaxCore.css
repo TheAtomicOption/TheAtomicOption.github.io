@@ -31,7 +31,7 @@
     font-family: Monaco, "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
     font-weight: normal !important;
     font-style: normal !important;
-    font-size: .9em !important;
+    font-size: .95em !important;
     direction: ltr !important;
     -webkit-box-shadow: none !important;
     -moz-box-shadow: none !important;
@@ -46,7 +46,7 @@
     position: relative !important;
     overflow: auto !important;
     overflow-y: hidden !important;
-    font-size: 0.7em !important;
+    font-size: 0.9em !important;
 }
 
 .syntaxhighlighter code {
