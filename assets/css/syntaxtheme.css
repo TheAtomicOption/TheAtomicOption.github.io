@@ -71,7 +71,7 @@
     color: #006699 !important;
 }
 .syntaxhighlighter .preprocessor {
-    color: gray !important;
+    color: #555 !important;
 }
 .syntaxhighlighter .variable {
     color: #aa7700 !important;
@@ -92,7 +92,7 @@
 }
 .syntaxhighlighter .color1,
 .syntaxhighlighter .color1 a {
-    color: gray !important;
+    color: #555 !important;
 }
 .syntaxhighlighter .color2,
 .syntaxhighlighter .color2 a {
